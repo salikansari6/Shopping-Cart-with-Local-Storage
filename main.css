@@ -1,0 +1,17 @@
+#cart {
+  border: none;
+}
+
+.list-group-item img {
+  height: 60px;
+  width: 60px;
+}
+
+.dropdown-menu {
+  width: 70vw;
+}
+
+.add-to-cart,
+.remove-from-cart {
+  font-size: 30px;
+}
